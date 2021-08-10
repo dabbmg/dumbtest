@@ -5,7 +5,7 @@ import android.widget.ProgressBar;
 
 public class Riddle extends FileManager {
 
-
+    //Example
     String[] riddles;
     ProgressBar progBar = (ProgressBar) findViewById(R.id.riddleProg);
 
