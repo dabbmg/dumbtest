@@ -8,7 +8,7 @@ import android.widget.Button;
 import androidx.appcompat.app.AppCompatActivity;
 
 
-public class FileManager extends AppCompatActivity {
+public class FileManager extends MainActivity {
 
         //Test Commit
         private String userName;
